@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：识别质量
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 054 篇 - 百家乐Ai预测分析工具：等待识别状态需要怎样的超时说明](https://github.com/TGmszrcsz/baccarat-ai-054) ｜ [下一篇：第 056 篇 - 百家乐Ai预测分析工具：人工抽查应该怎样覆盖不同情况](https://github.com/TGmszrcsz/baccarat-ai-056)
+
+<!-- article-chain:end -->
+
 字母O和数字0被识别成同一字符，关联出现冲突。本篇围绕“字符混淆怎样影响局号唯一性”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、从页面现象追到实际含义
